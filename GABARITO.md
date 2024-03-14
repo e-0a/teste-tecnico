@@ -2,7 +2,9 @@
 
 1) 91
 
-- 3) 
+2) https://github.com/e-0a/teste-tecnico/blob/main/exercicio02.js
+
+3) 
     a) 9<br>
     b) 128<br>
     c) 49<br>

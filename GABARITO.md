@@ -17,3 +17,5 @@
     Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada?"  
 
 - Verificando a temperatura das lâmpadas 
+
+5) https://github.com/e-0a/teste-tecnico/blob/main/exercicio05.js

@@ -7,8 +7,8 @@
     b) 128<br>
     c) 49<br>
     d) 100<br>
-    e) 43
-    f) 200
+    e) 43<br>
+    f) 200<br>
 
 4) Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em uma sala diferente. Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada.
 

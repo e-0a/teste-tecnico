@@ -10,4 +10,4 @@ while (K < indice){
 
 console.log(soma);
 
-// A resposta é 91
+// 91
